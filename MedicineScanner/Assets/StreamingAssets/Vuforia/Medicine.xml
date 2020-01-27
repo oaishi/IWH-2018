@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Entacyd_Plus" size="50.000000 119.116631" />
+    <ImageTarget name="Napa" size="50.000000 123.611115" />
+    <ImageTarget name="NapaExtend" size="50.000000 45.851063" />
+    <ImageTarget name="HPRds" size="50.000000 30.910748" />
+  </Tracking>
+</QCARConfig>
